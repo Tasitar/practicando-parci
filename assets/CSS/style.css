@@ -13,3 +13,9 @@ display: flex;
 justify-content: center;
 background-color: cadetblue;
 }
+body {
+    background-image: url('../image/vocaloid-cute.webp');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
