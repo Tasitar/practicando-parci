@@ -1,0 +1,15 @@
+.dere-izqui{
+    background-color: tomato;
+}
+.contene-izqui-dere{
+    display:flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    background-color: aqua;
+}   
+
+#abajo{
+display: flex;
+justify-content: center;
+background-color: cadetblue;
+}
